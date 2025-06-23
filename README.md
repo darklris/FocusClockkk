@@ -15,15 +15,16 @@
 
 ```bash
 # 方式一：指定倒计时时长（单位：分钟）
-python floating_countdown.py -m 25
+python count.py -m 25
 
 # 方式二：指定目标时间（24小时制 HH:MM）
-python floating_countdown.py -t 16:00
+python count.py -t 16:00
 ```
 
 ## 📷 预览效果图
 
 ✅ 右下角悬浮倒计时，完美适配工作桌面，随时查看进度
+![image](https://github.com/user-attachments/assets/1df124fb-0d09-46b4-8718-dc10e33bf907)
 
 
 ## 🧩 安装依赖
